@@ -11,6 +11,8 @@ Un coche puede ser recomprado a un cliente.
 
 universo.discurso.fin
 
+Cliente, Coche, Vendedor, Venta, oncesionario, ~~dato~~
+
 # -------------------------------------------------------
 v2
 universo.discurso.comienzo
@@ -39,26 +41,10 @@ universo.discurso.fin
 # -------------------------------------------------------
 v4 (con diseño)
 
-  - Concesioanario (de automóviles)
+  - Concesioanario (de automóviles)(cochecitos.com)
   - Clientes (Nombre, apellido, DNI, teléfono, dirección, ...)
   - Coche (Número de bastidor, matrícula, año, modelo, color...)
-  - Vendedor (,,)
+  - Vendedor (Número de vendedor)
   - Venta (,,)
   - Recompra (de coches) (por cliente)
 
-
-
-
-
-
-
-
-
-
-
-Cliente
-Coche
-Vendedor
-Venta
-Concesioanrio
-~~dato~~
