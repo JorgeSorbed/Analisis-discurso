@@ -44,7 +44,7 @@ v4 (con diseño)
   - Concesioanario (de automóviles)(cochecitos.com)
   - Clientes (Nombre, apellido, DNI, teléfono, dirección, ...)
   - Coche (Número de bastidor, matrícula, año, modelo, color...)
-  - Vendedor (Número de vendedor)
+  - Vendedor (Número de vendedor, DNI, nomnbre, apellido, teléfono, ...)
   - Venta (,,)
   - Recompra (de coches) (por cliente)
 
