@@ -45,6 +45,6 @@ v4 (con diseño)
   - Clientes (Nombre, apellido, DNI, teléfono, dirección, ...)
   - Coche (Número de bastidor, matrícula, año, modelo, color...)
   - Vendedor (Número de vendedor, DNI, nomnbre, apellido, teléfono, ...)
-  - Venta (,,)
+  - Venta (coche, cliente, importe, fecha, ...)
   - Recompra (de coches) (por cliente)
 
