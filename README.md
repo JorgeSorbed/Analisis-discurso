@@ -41,16 +41,24 @@ v4 (con diseño)
 
   - Concesioanario (de automóviles)
   - Clientes (Nombre, apellido, DNI, teléfono, dirección, ...)
-  - Coche (,,)
+  - Coche (Número de bastidor, matrícula, año, modelo, color...)
   - Vendedor (,,)
   - Venta (,,)
   - Recompra (de coches) (por cliente)
 
 
 
-- Cliente
-- Coche
-- Vendedor
-- Venta
-- Concesioanrio
-- ~~dato~~
+
+
+
+
+
+
+
+
+Cliente
+Coche
+Vendedor
+Venta
+Concesioanrio
+~~dato~~
