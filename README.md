@@ -9,3 +9,10 @@ De los clientes se conocen los datos habituales, también de los coches, de los 
 Un coche puede ser recomprado a un cliente.
 
 universo.discurso.fin
+
+- Cliente
+- Coche
+- Vendedor
+- Venta
+- Concesioanrio
+- ~~dato~~
